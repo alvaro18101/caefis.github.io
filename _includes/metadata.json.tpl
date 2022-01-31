@@ -43,7 +43,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "David",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
